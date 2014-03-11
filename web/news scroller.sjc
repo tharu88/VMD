@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sothink_jwscroller>
+  <description>
+    <temp_depict></temp_depict>
+    <temp_title>news scroller</temp_title>
+    <version>1.00</version>
+    <prog_id>PageletServer.JWScroller</prog_id>
+    <update_time></update_time>
+    <preview_path></preview_path>
+  </description>
+  <total>
+    <global>
+      <jwscroller_name>jwscroller2e8e</jwscroller_name>
+      <script_path></script_path>
+      <image_path></image_path>
+      <link_prefix></link_prefix>
+      <auto_scroll>1</auto_scroll>
+      <auto_speed>1</auto_speed>
+      <noauto_speed>5</noauto_speed>
+      <by_page>1</by_page>
+      <loop_scroll>1</loop_scroll>
+      <width>50</width>
+      <width_unit>1</width_unit>
+      <align>0</align>
+      <item_img_area_w>1950</item_img_area_w>
+      <item_img_area_h>0</item_img_area_h>
+      <max_item_number>1</max_item_number>
+      <spacing>0</spacing>
+      <padding>4</padding>
+      <bg_color>#F2FFD9</bg_color>
+      <bg_transparent>1</bg_transparent>
+      <bg_image>C:\Program Files\SourceTec\Sothink JWScroller\templates\[Hor.] News Scroller\news scroller\background.gif</bg_image>
+      <bg_tile>1</bg_tile>
+      <fast_js_enable>1</fast_js_enable>
+      <fast_js_type>0</fast_js_type>
+      <fast_js_path>C:\Users\PRAGEETH SAN\Desktop\VMD Consultent\Web\news.js</fast_js_path>
+      <fast_js_img_path>C:\Users\PRAGEETH SAN\Desktop\VMD Consultent\Web\</fast_js_img_path>
+      <fast_js_script_path>C:\Users\PRAGEETH SAN\Desktop\VMD Consultent\Web\</fast_js_script_path>
+    </global>
+    <arrows>
+      <enable_arrow>0</enable_arrow>
+      <left_out_enalbe></left_out_enalbe>
+      <left_over_enalbe></left_over_enalbe>
+      <left_disable></left_disable>
+      <left_width>0</left_width>
+      <left_height>0</left_height>
+      <left_align_h>1</left_align_h>
+      <left_align_v>1</left_align_v>
+      <right_out_enalbe></right_out_enalbe>
+      <right_over_enalbe></right_over_enalbe>
+      <right_disable></right_disable>
+      <right_width>0</right_width>
+      <right_height>0</right_height>
+      <right_align_h>1</right_align_h>
+      <right_align_v>1</right_align_v>
+    </arrows>
+    <title>
+      <enable_title>0</enable_title>
+      <type>0</type>
+      <content></content>
+      <align_h>0</align_h>
+      <bg_color>#DEF2B8</bg_color>
+      <bg_transparent>1</bg_transparent>
+      <bg_image></bg_image>
+      <bg_tile>3</bg_tile>
+      <font_face>Arial</font_face>
+      <font_color>#000000</font_color>
+      <font_size>9</font_size>
+      <font_size_unit>0</font_size_unit>
+      <font_decoration>0</font_decoration>
+    </title>
+    <pagination>
+      <enable_pagination>0</enable_pagination>
+      <bg_nor_color>#FFFFF7</bg_nor_color>
+      <bg_nor_transparent>1</bg_nor_transparent>
+      <bg_sel_color>#FFFFF7</bg_sel_color>
+      <bg_sel_transparent>1</bg_sel_transparent>
+      <font_nor_face>Arial</font_nor_face>
+      <font_nor_color>#57751D</font_nor_color>
+      <font_nor_size>9</font_nor_size>
+      <font_nor_size_unit>0</font_nor_size_unit>
+      <font_nor_decoration>1</font_nor_decoration>
+      <font_sel_face>Arial</font_sel_face>
+      <font_sel_color>#57751D</font_sel_color>
+      <font_sel_size>9</font_sel_size>
+      <font_sel_size_unit>0</font_sel_size_unit>
+      <font_sel_decoration>1</font_sel_decoration>
+    </pagination>
+    <border>
+      <station>1</station>
+      <global_enable>0</global_enable>
+      <global_enalbe_round>1</global_enalbe_round>
+      <global_style>2</global_style>
+      <global_width>2</global_width>
+      <global_color>#0099CC #FFFFFF</global_color>
+      <global_synchronize>0</global_synchronize>
+      <global_round_group>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round.png</global_round_group>
+      <global_round_size>5</global_round_size>
+      <global_round_l>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_t.gif</global_round_l>
+      <global_round_lt>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_tl.gif</global_round_lt>
+      <global_round_t>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_r.gif</global_round_t>
+      <global_round_rt>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_tr.gif</global_round_rt>
+      <global_round_r>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_b.gif</global_round_r>
+      <global_round_rb>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_br.gif</global_round_rb>
+      <global_round_b>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_l.gif</global_round_b>
+      <global_round_lb>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_bl.gif</global_round_lb>
+      <tip_enable>1</tip_enable>
+      <tip_enable_round>1</tip_enable_round>
+      <tip_style>2</tip_style>
+      <tip_width>2</tip_width>
+      <tip_color>#0099CC #FFFFFF</tip_color>
+      <tip_synchronize>0</tip_synchronize>
+      <tip_round_group>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round.png</tip_round_group>
+      <tip_round_size>5</tip_round_size>
+      <tip_round_l>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_t.gif</tip_round_l>
+      <tip_round_lt>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_tl.gif</tip_round_lt>
+      <tip_round_t>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_r.gif</tip_round_t>
+      <tip_round_rt>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_tr.gif</tip_round_rt>
+      <tip_round_r>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_b.gif</tip_round_r>
+      <tip_round_rb>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_br.gif</tip_round_rb>
+      <tip_round_b>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_l.gif</tip_round_b>
+      <tip_round_lb>C:\Program Files\SourceTec\Sothink JWScroller\Templates\[Hor.] News Scroller\news scroller\round_bl.gif</tip_round_lb>
+      <item_enable>0</item_enable>
+      <item_style>1</item_style>
+      <item_width>1</item_width>
+      <item_color>#006699</item_color>
+      <item_synchronize>1</item_synchronize>
+    </border>
+  </total>
+  <data>
+    <node>
+      <item image="" img_w="0" img_h="0" type="0" link="" target="_self" align_h="1" bg_color="#999900" bg_transparent="1" font_out_face="Arial" font_out_color="#FFFFFF" font_out_size="8" font_out_size_unit="0" font_out_decoration="1" font_over_face="Arial" font_over_color="#FFFF00" font_over_size="8" font_over_size_unit="0" font_over_decoration="1">
+        <content>Latest vacancies &amp; News : Opticians to canada - Salary $CAN48000-58000 , Direct Permanent Resident migration for Experienced and qualified Nurses to Canada Direct Permanent Resident   Migration to Australia for Graduates with Experience ,Direct Migration for Engineering students from all over the world from selected Universities.</content>
+      </item>
+      <tip enable_tip="0" type="0" load_file="" align_h="1" align_v="1" use_effect="1" width="1" height="1" offset_x="0" offset_y="0" effect_speed="80" font_face="Arial" font_color="#006699" font_size="8" font_size_unit="0" font_decoration="0" bg_color="#F2FFD9" bg_transparent="0" bg_image="" bg_tile="3">
+        <content></content>
+      </tip>
+    </node>
+  
+  </data>
+</sothink_jwscroller>

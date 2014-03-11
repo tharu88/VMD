@@ -1,0 +1,4 @@
+sts_bs("jwscroller2e8e",[20071127,"","","blank.gif",1,1,1,1,"50%","left",4,0,1950,0,1],["none",1,"#006699","transparent","background.gif","repeat-x"]);
+sts_tbd([1],["double",2,"#0099CC #FFFFFF",5,"round_tl.gif","round_tr.gif","round_br.gif","round_bl.gif","transparent","round_t.gif","repeat","transparent","round_r.gif","repeat","transparent","round_b.gif","repeat","transparent","round_l.gif","repeat"]);
+sts_ai("i0",[0,"Latest vacancies & News : Opticians to canada - Salary $CAN48000-58000 , Direct Permanent Resident migration for Experienced and qualified Nurses to Canada Direct Permanent Resident   Migration to Australia for Graduates with Experience ,Direct Migration for Engineering students from all over the world from selected Universities.","","_self","",0,0,"center"],["transparent","bold 8pt Arial","#FFFFFF","none","bold 8pt Arial","#FFFF00","none"]);
+sts_es();
